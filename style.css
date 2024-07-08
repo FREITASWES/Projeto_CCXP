@@ -1,0 +1,10 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    background-color: #FFD900;
+    padding: 25px;
+}
