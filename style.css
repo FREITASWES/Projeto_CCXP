@@ -5,6 +5,47 @@
 }
 
 header {
+    width: 100%;
     background-color: #FFD900;
     padding: 25px;
 }
+
+#informacoes {
+    background-color: #514988;
+    width: 800px;
+    height: 694px;
+    color: #ffffff;
+}
+
+#titulo-informacoes {
+    width: 676px;
+    height: 149px;
+    margin-left: 5px;
+    padding-top: 40px;
+    text-align: center;
+}
+
+#titulo-informacoes h1 {
+    color: #FFD900;
+    font-size: 45px;
+    font-weight: 700;
+    padding: 25px;
+    text-align: center;
+}
+
+span {
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+#texto {
+    width: 678px;
+    height: 350px;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 32px;
+    margin-top: 100px;
+    line-height: 30px;
+}
+
