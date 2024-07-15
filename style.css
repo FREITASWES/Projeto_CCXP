@@ -18,14 +18,14 @@ header {
 
 #infos {
     padding-top: 40px;
-    height: 694px;
+    height: 564px;
     background-color: #514988;
     color: #FFFFFF;
     text-align: center;
 }
 
 #titulo-informacoes h1 {
-    color: #FFD900;
+    color: #F3C61F;
     font-size: 60px;
     font-weight: 700;
     padding: 25px;
@@ -71,7 +71,7 @@ span {
 #titulo {
     padding: 15px;
     margin-left: 110px;
-    color: #FFD900;
+    color: #F3C61F;
     font-size: 27px;
     font-weight: 700;
 }
@@ -80,12 +80,7 @@ span {
     display: grid;
     grid-auto-flow: column;
     text-align: center;
-}
-
-#card-imagens img {
-    width: 180px;
-    height: 200px;
-    margin-left: 90px;
+    padding: 20px;
 }
 
 button {
@@ -98,8 +93,10 @@ button {
     font-weight: 700;
     font-size: 30px;
     text-align: center;
-    margin-bottom: 500px;
-
+    margin-bottom: 100px;
 }
 
-
+button:hover {
+    cursor: pointer;
+    color: #F3C61F;
+}
